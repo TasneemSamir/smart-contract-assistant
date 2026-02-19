@@ -2,6 +2,7 @@
 
 A RAG (Retrieval Augmented Generation) application that allows users to
 upload contracts and legal documents, then ask questions and get
+
 AI-powered answers with source citations.
 
 ## Features
